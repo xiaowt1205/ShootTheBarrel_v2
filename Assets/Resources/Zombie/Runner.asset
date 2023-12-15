@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa19423d2957d44c9819423aafb82c6, type: 3}
+  m_Name: Runner
+  m_EditorClassIdentifier: 
+  HealthPoint: 10
+  MoveSpeed: 5
+  Model: {fileID: 8525612133630734720, guid: bc3393d30f2083b4882b061fbb95899b, type: 3}
+  Probability: 1
